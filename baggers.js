@@ -14342,9 +14342,9 @@ var data = {
       }
     },
     {
-          "since": "2017-03-14",
+          "since": "2017-01-01",
           "name": "Riadh MNASRI",
-          "bio": "Architecte/Développeur Java/JS, Freelance",
+          "bio": "Architecte/Développeur Java/Kotlin, Freelance",
           "picture": "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200",
           "websites": [
               {
@@ -14355,26 +14355,14 @@ var data = {
           "location": "Paris, remote",
           "sessions": [
               {
-                  "title": "Initiation Spring Boot",
-                  "abstract": "Une session d'initiation à Spring boot avec une séance de live coding",
+                  "title": "Un tour d'horizon des fonctionnalités clé du langage Kotlin ",
+                  "abstract": "Une session de présentation des fonctionnalités clé de Kotlin avec Live Coding",
                   "tags": [
                       "Java",
-                      "Spring"
+                      "Kotlin"
                   ],
                   "lang": [
                       "fr"
-                  ]
-              },
-              {
-                  "title": "Bonnes pratiques tests unitaires en Java",
-                  "abstract": "Je vous propose une séance de bonnes pratiques tests unitaires JUnit, AssertJ, ...",
-                  "tags": [
-                      "Tests unitaires",
-                      "Junit",
-                      "AssertJ"
-                  ],
-                  "lang": [
-                      "fr", "en"
                   ]
               },
               {
@@ -14389,28 +14377,16 @@ var data = {
                   ]
               },
               {
-                  "title": "Ma première application Angular",
-                  "abstract": "Développer votre première application Angular 2",
-                  "tags": [
-                      "Angular",
-                      "TypeScript"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "Comprendre les nouveautés Java 8",
-                  "abstract": "Comprendre l'utilisation des stream, des lambda, ....",
-                  "tags": [
-                      "Java 8",
-                      "Lambda",
-                      "Stream"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              }
+              "title": "Kafka par la pratique",
+              "abstract": "Les concepts et cas concrets d'utilisation dans des projets d'entreprise",
+              "tags": [
+                "Kafka",
+                "Spring"
+              ],
+              "lang": [
+                "fr", "en"
+              ]
+            }
           ],
           "cities": [
               "Paris"
